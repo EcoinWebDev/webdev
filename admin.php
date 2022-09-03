@@ -5,4 +5,5 @@ if(!isset($_SESSION['user'])){
   }
 ?>
 
-<h1>Welcom To Your Profile </h1>
+<h1>Welcom To Your Profile  to logout Click here <a href="logout.php">Logout</a></h1>
+
